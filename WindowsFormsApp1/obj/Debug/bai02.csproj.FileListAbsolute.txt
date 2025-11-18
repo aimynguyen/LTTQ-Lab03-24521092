@@ -1,0 +1,11 @@
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab03\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab03\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab03\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab03\WindowsFormsApp1\obj\Debug\bai02.csproj.AssemblyReference.cache
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab03\WindowsFormsApp1\obj\Debug\bai02.csproj.GenerateResource.cache
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab03\WindowsFormsApp1\obj\Debug\bai02.csproj.CoreCompileInputs.cache
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config

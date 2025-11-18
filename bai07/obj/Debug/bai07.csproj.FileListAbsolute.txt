@@ -1,0 +1,11 @@
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab03\bai07\obj\Debug\bai07.csproj.AssemblyReference.cache
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab03\bai07\obj\Debug\bai07.Form1.resources
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab03\bai07\obj\Debug\bai07.Properties.Resources.resources
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab03\bai07\obj\Debug\bai07.csproj.GenerateResource.cache
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab03\bai07\obj\Debug\bai07.csproj.CoreCompileInputs.cache
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab03\bai07\bin\Debug\bai07.exe.config
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab03\bai07\bin\Debug\bai07.exe
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab03\bai07\bin\Debug\bai07.pdb
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab03\bai07\obj\Debug\bai07.exe
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab03\bai07\obj\Debug\bai07.pdb
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab03\bai07\obj\Debug\bai07.exe.config
