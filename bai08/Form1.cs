@@ -31,7 +31,7 @@ namespace bai08
 
         private void buttonThem_Click(object sender, EventArgs e)
         {
-            if (textBoxSTK.Text == null || textBoxTenKH.Text == null || textBoxDCKH.Text == null || textBoxSoTien.Text == null)
+            if (textBoxSTK.Text == "" || textBoxTenKH.Text == "" || textBoxDCKH.Text == "" || textBoxSoTien.Text == "")
             {
                 MessageBox.Show("MISSING INFORMATION. Please fill out all required fields! ", "Warning");
                 return;
