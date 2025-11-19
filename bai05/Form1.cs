@@ -31,6 +31,7 @@ namespace bai05
             else 
             {
                 MessageBox.Show("Khong hop le!");
+                textBox3.Text = "";
                 return;
             }
             if (double.TryParse(textBox2.Text, out input))
@@ -38,6 +39,7 @@ namespace bai05
             else
             {
                 MessageBox.Show("Khong hop le!");
+                textBox3.Text = "";
                 return;
             }
             textBox3.Text = sum.ToString();
@@ -52,6 +54,7 @@ namespace bai05
             else 
             { 
                 MessageBox.Show("Khong hop le!");
+                textBox3.Text = "";
                 return;
             }
             if (double.TryParse(textBox2.Text, out input))
@@ -59,6 +62,7 @@ namespace bai05
             else
             {
                 MessageBox.Show("Khong hop le!");
+                textBox3.Text = "";
                 return;
             }
             textBox3.Text = sub.ToString();
@@ -73,6 +77,7 @@ namespace bai05
             else
             {
                 MessageBox.Show("Khong hop le!");
+                textBox3.Text = "";
                 return;
             }
             if (double.TryParse(textBox2.Text, out input))
@@ -80,6 +85,7 @@ namespace bai05
             else
             {
                 MessageBox.Show("Khong hop le!");
+                textBox3.Text = "";
                 return;
             }
             textBox3.Text = mul.ToString();
@@ -94,18 +100,21 @@ namespace bai05
             else
             {
                 MessageBox.Show("Khong hop le!");
+                textBox3.Text = "";
                 return;
             }
             if (!double.TryParse(textBox2.Text, out input))                
-                    {
-                        MessageBox.Show("Khong hop le!");
-                        return;
-                    }
+                {
+                    MessageBox.Show("Khong hop le!");
+                    textBox3.Text = "";
+                    return;
+                }
             else
             {
                 if (input == 0)
                 {
                     MessageBox.Show("Khong the chia cho 0");
+                    textBox3.Text = "";
                     return;
                 }
                 else
