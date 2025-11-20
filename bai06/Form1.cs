@@ -321,5 +321,16 @@ namespace bai06
         {
 
         }
+
+        private void buttonDau_Click(object sender, EventArgs e)
+        {
+            if (double.TryParse(richTextBox1.Text, out double value))
+            {
+                value = -value; 
+                richTextBox1.Text = value.ToString();
+                isNewNum = true;
+            }
+        }
+
     }
 }

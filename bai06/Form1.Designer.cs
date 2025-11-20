@@ -390,6 +390,7 @@
             this.buttonDau.TabIndex = 26;
             this.buttonDau.Text = "+/-";
             this.buttonDau.UseVisualStyleBackColor = true;
+            this.buttonDau.Click += new System.EventHandler(this.buttonDau_Click);
             // 
             // button0
             // 
